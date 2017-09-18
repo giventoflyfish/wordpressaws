@@ -8,7 +8,7 @@ Script provides an example of automating a WordPress installation on a newly com
 - Configure MySQL
 - Configure wp-content.php and .htaccess accordingly
 
-Change wordpressdb, wordpressuser and <wordpresspassword> to new values.
+Change wordpressdb, wordpressuser and <wppassword> to new values.
 
 Note: This leaves MySQL open after the installation. Please change the MySQL Root administrator password. Also, recommend that all proper AWS Secuirty Groups are setup correctly.
 
